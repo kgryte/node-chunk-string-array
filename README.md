@@ -40,7 +40,9 @@ The function accepts the following `options`:
 To strictly enforce a maximum subarray `length`, set the `strict` option to `true`.
 
 ``` javascript
-var out = chunk( ['abc', 'de', 'fg', 'h', 'ijkl' ], 3 );
+var out = chunk( ['abc', 'de', 'fg', 'h', 'ijkl' ], 3, {
+	'strict': true
+});
 // => throws Error
 ```
 
