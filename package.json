@@ -1,6 +1,6 @@
 {
   "name": "chunk-string-array",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Chunks a string array based on string length.",
   "author": {
     "name": "Athan Reines",
