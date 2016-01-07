@@ -30,6 +30,7 @@ var out = chunk( ['abc', 'de', 'fg', 'h', 'ijkl' ], 3 );
 		['de'],
 		['fg','h'],
 		['ijkl']
+	]
 */
 ```
 
